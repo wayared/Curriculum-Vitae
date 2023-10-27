@@ -18,3 +18,8 @@ img {
  max-height: 25%;
  border-radius: 50%;
 }
+
+.tableOne {
+  background-color: #16161a;
+  color: white;
+}
