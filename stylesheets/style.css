@@ -10,3 +10,8 @@ ul {
   padding-left: 2rem;
   list-style-type: none;
 }
+
+img {
+ max-width: 50%;
+ max-height: 50%;
+}
