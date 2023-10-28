@@ -60,6 +60,7 @@ td {
   vertical-align: middle; 
 }
 
-.image{
-  text-align: center; 
+.image {
+  text-align: center; /* Centra horizontalmente el contenido en la celda */
+  vertical-align: middle; /* Centra verticalmente el contenido en la celda */
 }
