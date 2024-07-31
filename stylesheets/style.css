@@ -103,6 +103,10 @@ h1{
 gap: 150px;
 }
 
+.row3{
+  gap: 108px;
+  }
+
 .column2 .section-title::after {
   content: '';
   position: absolute;
